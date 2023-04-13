@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308687130467",
+    "project_id": "beebuy-8d00b",
+    "storage_bucket": "beebuy-8d00b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308687130467:android:1d5f51e08ceb5e6d8bcd56",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308687130467-dh93hf8u3lirkhvnahivc0v2q9o4c4ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANxMA8JH-G7SdSCWXQhPfwGvXgHD87RU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308687130467-dh93hf8u3lirkhvnahivc0v2q9o4c4ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
